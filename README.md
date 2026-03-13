@@ -34,6 +34,8 @@ This repository is explicitly inspired by the paper:
 Andrew Szot, Michael Kirchhof, Omar Attia, Alexander Toshev  
 arXiv:2603.02045, 2026
 
+https://arxiv.org/abs/2603.02045
+
 The paper proposes **Strategy-Guided Exploration (SGE)**, a method that:
 - generates a concise natural-language strategy before acting
 - conditions actions on that strategy
