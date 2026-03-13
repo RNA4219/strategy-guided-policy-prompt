@@ -145,7 +145,8 @@ This repository defines how the agent should behave while deciding what to do.
 ```text
 .
 ├─ README.md
-└─ system_prompt.md
+├─ system_prompt.md
+└─ system_prompt_ja.md
 ````
 
 * `README.md`: repository overview
