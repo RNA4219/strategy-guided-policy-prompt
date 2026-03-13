@@ -1,8 +1,11 @@
 # strategy-guided-policy
 
 A lightweight strategy-guided activity policy inspired by **Strategy-Guided Exploration (SGE)** for adaptive long-horizon AI agents.
-論文を元に作成したシステムプロンプト　Skillsにするか検討したがエージェントの行動規範レベルで入れた方が良いだろうと判断し、
-システムプロンプトとして作成
+
+論文を元に作成したシステムプロンプト　
+当初Skillsにするか検討したが、大きいモデルであれば変にパイプラインで縛り付けるより、
+エージェントの行動規範レベルで入れた方が良いだろうと判断し、
+システムプロンプトとして作成。
 作成者のOSSエコシステムが組み込まれているため、独自に使用する場合は編集してください。
 
 ## Overview
